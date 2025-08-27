@@ -1,0 +1,53 @@
+
+
+html, body{
+    height: 100%;
+    width: 100%;
+
+}
+
+
+.button{
+    padding: 20px;
+    border: 3px solid rgb(223, 39, 39);
+    cursor: pointer;
+   font-family: cursive;
+   font-size: larger;
+   width: 55.5px;
+    transition: transform 0.1s ease;
+}
+.button:hover{
+    background-color: rgb(185, 185, 229);
+}
+.button:active {
+    transform: scale(0.9);  
+}
+
+
+.row{
+    margin: 3px 0;
+}
+
+.row input{
+    font-size: 16px;
+    margin: 0;
+    padding: 10px 0px;
+    border:2px solid rgb(9, 9, 9);
+      font-family: cursive;
+
+}
+
+.image{
+    padding-left: 20px;
+    padding-bottom: 20px;
+      padding-top: 20px;
+      margin-top: 150px;
+    background-image: url(download\ \(12\).jpeg);
+    background-size: cover;
+}
+
+.all{
+    height: 1220px;
+    width: 1620px;
+    background-color: rgb(2, 5, 22);
+}

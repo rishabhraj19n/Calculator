@@ -1,0 +1,19 @@
+.mw20{
+    max-width: 20vw;
+}
+.mxauto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.itemsCenter{
+    align-items: center;
+
+}
